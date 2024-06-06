@@ -9,6 +9,7 @@ public class sample {
 	@Test
 	public void sampler() {
 		Reporter.log("Test executed", true);
+		Reporter.log("Sample test case modified", true);
 	}
 	
 }
