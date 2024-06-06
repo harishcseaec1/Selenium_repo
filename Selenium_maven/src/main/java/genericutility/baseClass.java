@@ -33,8 +33,8 @@ public class baseClass {
 	@BeforeMethod
 	public void login()
 	{
-		wp = new welcomePage();
-		wp.get
+		//wp = new welcomePage();
+		//wp.get
 	}
 
 }

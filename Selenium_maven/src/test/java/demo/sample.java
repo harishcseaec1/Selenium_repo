@@ -10,6 +10,7 @@ public class sample {
 	public void sampler() {
 		Reporter.log("Test executed", true);
 		Reporter.log("Sample test case modified", true);
+		Reporter.log("Sample test added for QA", true);
 	}
 	
 }
