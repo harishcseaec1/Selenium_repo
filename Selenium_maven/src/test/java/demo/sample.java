@@ -11,7 +11,7 @@ public class sample {
 		Reporter.log("Test executed", true);
 		Reporter.log("Sample test case modified", true);
 		Reporter.log("Sample test added for QA", true);
-		Reporter.log("Sample test added for", true);
+		Reporter.log("Sample test added", true);
 	}
 	
 }
